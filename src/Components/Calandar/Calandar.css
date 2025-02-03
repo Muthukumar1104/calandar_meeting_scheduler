@@ -1,0 +1,13 @@
+.rs__view_navigator button {
+  color: black;
+}
+
+.rs__view_navigator button:active {
+  color: black;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.calandar_scheduler {
+  margin: 2%;
+}
