@@ -1,11 +1,16 @@
 .rs__view_navigator button {
   color: black;
+  border-radius: 0px;
+  padding-bottom: 0px;
 }
 
-.rs__view_navigator button:active {
+.rs__view_navigator button:hover {
   color: black;
   font-weight: 600;
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  background-color: #ffffff;
+  padding-bottom: 0px;
+  /* border-bottom: 2px solid black; */
 }
 
 .calandar_scheduler {
